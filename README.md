@@ -1,8 +1,33 @@
-# Java Space Invaders
+# 🚀 Space Invaders – Java Game
 
-![Space Invaders screenshot](spaceinvaders.png)
+A simple desktop-based **arcade-style Space Invaders game** built using **Java AWT & Swing**. Shoot down alien enemies, dodge attacks, and protect your spaceship in this classic remake!
 
-# Space-Invaders
+---
 
+## 🎮 Features
 
-                                 # developed by Aman Kr.
+- 👾 Alien enemy movement and behavior
+- 🚀 Player-controlled spaceship with shooting
+- 💥 Collision detection
+- 🧠 Simple game logic using OOP concepts
+- 📦 Lightweight, no external dependencies
+
+---
+
+## 🛠️ Technologies Used
+
+- **Java**
+- **Java AWT**
+- **Java Swing**
+
+---
+
+## 🧑‍💻 How to Run
+
+### 🖥️ Using Terminal / Git Bash:
+
+```bash
+cd src
+javac *.java
+java SpaceInvaders
+                                                                                #developed by Aman Kr.
