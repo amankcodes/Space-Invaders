@@ -14,11 +14,15 @@ A simple desktop-based **arcade-style Space Invaders game** built using **Java A
 
 ---
 
-## 🛠️ Technologies Used
+## 🛠️ **Technologies Used** >>
 
 - **Java**
 - **Java AWT**
 - **Java Swing**
+
+- ## 📌 Extra Feature
+- 🔊 Sound effects (can be added later)
+
 
 ---
 
