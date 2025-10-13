@@ -34,4 +34,4 @@ A simple desktop-based **arcade-style Space Invaders game** built using **Java A
 cd src
 javac *.java
 java SpaceInvaders
-                                                                                #developed by Aman Kr.
+                                                                                
