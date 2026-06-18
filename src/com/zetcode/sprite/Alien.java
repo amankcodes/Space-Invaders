@@ -33,7 +33,6 @@ public class Alien extends Sprite {
 
         return bomb;
     }
-
     public class Bomb extends Sprite {
 
         private boolean destroyed;
